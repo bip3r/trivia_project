@@ -1,0 +1,17 @@
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\bin\Debug\Trivia_project_client.exe
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\bin\Debug\Trivia_project_client.pdb
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.csprojAssemblyReference.cache
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.Properties.Resources.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.csproj.GenerateResource.cache
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.exe
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.pdb
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.SplashScreen.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.Form1.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.SignUp.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.MyStatus_BestScores.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.CreateRoom.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.BeforeBeginGame.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.JoinRoom.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.Scores.resources
+C:\Users\magshimim\source\repos\Trivia_project_client\Trivia_project_client\obj\Debug\Trivia_project_client.Game.resources
